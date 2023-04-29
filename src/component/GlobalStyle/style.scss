@@ -1,0 +1,19 @@
+@import "normalize.css";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Poppins:wght@300&family=Source+Sans+Pro:wght@200&display=swap');
+
+
+:root{
+    --primary: #FE2C53;
+}
+
+
+html {
+    font-size: 62.6%;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-rendering: optimizeSpeed;
+}
